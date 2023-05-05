@@ -1,0 +1,85 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10;
+    background: url(Imagenes/Fondo6.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.contenedor{
+    color:#17202A;
+    border-radius: 20px;   
+    line-height: 120%;
+    position: relative;
+    bottom: -90px;
+    left: 40%;
+}
+
+.contenedor1{
+    background: rgb(255, 255, 255);
+    color:#17202A;
+    text-align: center;
+    border-radius: 20px;
+    line-height: 120%;
+    position: relative;
+    bottom: -90px;
+    left: 40%;
+}
+header{
+    text-align: center;
+    color: #F7F9F9;
+    position: relative;
+    bottom: -80px;
+}
+
+label{
+    position: relative;
+    bottom: -50px;
+    font-size: 20px;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+}
+input[type = "submit"]{
+    padding: 10px;
+    color: #F7F9F9;
+    background: #0098cb;
+    width: 220px;
+    margin: 200px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    position: relative;
+    bottom: -80px;
+
+}
+input[type = "submit"]:hover{
+    background: #00b8eb;
+}
+
+.button-R{
+    text-decoration:none;
+    position: relative;
+    bottom: 90px;
+    left: -7px;
+}
+.button-I{
+    text-decoration:none;
+    position: relative;
+    bottom: 110px;
+    left: -7px;
+}
+select{
+    width: 300px;
+    height: 30px;
+}
+a{
+    position: relative;
+    bottom: -50px;
+}
+a:hover{
+    text-decoration: underline;
+}

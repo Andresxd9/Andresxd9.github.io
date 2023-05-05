@@ -1,0 +1,76 @@
+body{
+	background: #89E188;
+}
+
+.button-S{
+	color: #000000;
+	font-size: 15px;
+    text-decoration: none;
+    font-family: "Arial";
+	position: relative;
+    left: 1265px;
+    bottom: -10px;
+}
+.button-S:hover{
+	text-decoration: underline;
+}
+
+.button-E{
+	text-decoration: none;
+	padding: 12px;
+    color: #F7F9F9;
+    background: #FACC2E;
+    width: 0px;
+    margin: 0px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    bottom: -70px;
+    left:300px;
+}
+.button-E:hover{
+	background: #F7D358;
+}
+
+.button-P{
+	text-decoration: none;
+	font-size: 13px;
+	padding: 10px;
+    color: #F7F9F9;
+    background: #28B463;
+    width: 0px;
+    margin: 0px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    bottom: 0px;
+    left:0px;
+}
+.button-P:hover{
+	background: #58D68D;
+}
+.button-D{
+    text-decoration: none;
+    font-size: 13px;
+    padding: 10px;
+    color: #F7F9F9;
+    background: #6C3483;
+    width: 0px;
+    margin: 0px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    bottom: 0px;
+    left:0px;
+}
+.button-D:hover{
+    background: #8E44AD;
+}
+
+
